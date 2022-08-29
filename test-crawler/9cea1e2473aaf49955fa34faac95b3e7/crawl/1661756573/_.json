@@ -1,0 +1,19 @@
+{
+    "url": "axcapital.ae",
+    "browser": "chrome-puppeteer",
+    "method": "spiderbot",
+    "autopin": true,
+    "viewport": {
+        "width": 1920,
+        "height": 1080
+    },
+    "timestamp": "1661756573",
+    "id": "9bc355de717377811f7181712b1f8d1c",
+    "diffZoneCount": 0,
+    "errorCount": 1,
+    "status": "review",
+    "inQueue": 0,
+    "urlsCount": 1,
+    "startAt": 1661756574008,
+    "lastUpdate": 1661756580494
+}

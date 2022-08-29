@@ -1,0 +1,14 @@
+{
+    "id": "9cea1e2473aaf49955fa34faac95b3e7",
+    "name": "ax",
+    "crawlerInput": {
+        "url": "axcapital.ae",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "autopin": true,
+        "viewport": {
+            "width": 1920,
+            "height": 1080
+        }
+    }
+}
